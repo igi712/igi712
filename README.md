@@ -20,7 +20,7 @@ Selamat datang di profil GitHub saya! Saya seorang mahasiswa Teknik Informatika
 - **Dasar-dasar bahasa C dan Java**
 - **Sedikit pemahamam tentang web programming**
 ## Pendidikan
-- **Politeknik Negeri Bandung - D4 Teknik Informatika (2023-sekarang) **
+- **Politeknik Negeri Bandung - D4 Teknik Informatika (2023-sekarang)**
 - **SMA Negeri 1 Cibadak**
 ## Proyek dan Kontribusi
 - **Tugas Besar Dasar-Dasar Pemrograman: Membuat game Tic-Tac-Toe** - https://github.com/kamimasihpemula/tic-tac-toe
