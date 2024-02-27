@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ## Pendidikan
 ## Proyek dan Kontribusi
 ## Menghubungi Saya
+## My Stats
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mimisosorara)](https://github.com/anuraghazra/github-readme-stats)
