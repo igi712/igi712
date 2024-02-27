@@ -15,9 +15,18 @@ Here are some ideas to get you started:
 -->
 # Muhammad Gianluigi Julian
 ## Tentang Saya
+Selamat datang di profil GitHub saya! Saya seorang mahasiswa Teknik Informatika
 ## Kepakaran
+- **Dasar-dasar bahasa C dan Java**
+- **Sedikit pemahamam tentang web programming**
 ## Pendidikan
+- **Politeknik Negeri Bandung - D4 Teknik Informatika (2023-sekarang) **
+- **SMA Negeri 1 Cibadak**
 ## Proyek dan Kontribusi
+- **Tugas Besar Dasar-Dasar Pemrograman: Membuat game Tic-Tac-Toe** - https://github.com/kamimasihpemula/tic-tac-toe
 ## Menghubungi Saya
+- **Linkedin** - https://linkedin.com/in/m-gianluigi-j
+- **Facebook** - https://www.facebook.com/muhammad.gianluigijulian
+- **Twitter** - https://www.twitter.com/mimisosorara
 ## My Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=mimisosorara)](https://github.com/anuraghazra/github-readme-stats)
