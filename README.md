@@ -27,6 +27,6 @@ Selamat datang di profil GitHub saya! Saya seorang mahasiswa Teknik Informatika
 ## Menghubungi Saya
 - **Linkedin** - https://linkedin.com/in/m-gianluigi-j
 - **Facebook** - https://www.facebook.com/muhammad.gianluigijulian
-- **Twitter** - https://www.twitter.com/igi712__
+- **Twitter** - [https://www.twitter.com/igi712__](https://www.twitter.com/igi712__)
 ## My Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=igi712)](https://github.com/anuraghazra/github-readme-stats)
